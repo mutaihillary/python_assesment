@@ -8,5 +8,5 @@
 # Use __init__ method to construct some parameters
 
 # Solution:
-class InputOutString(object):
+#class InputOutString(object):
     # code goes here
